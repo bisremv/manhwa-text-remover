@@ -1,0 +1,7 @@
+# Ignore everything in input and output folders
+input/
+output/
+text_input/
+venv/
+__pycache__/
+!/.gitkeep
