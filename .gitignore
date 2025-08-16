@@ -3,5 +3,7 @@ input/
 output/
 text_input/
 venv/
+test/
 __pycache__/
 !/.gitkeep
+upscaled/
